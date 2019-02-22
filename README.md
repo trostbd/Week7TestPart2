@@ -1,7 +1,8 @@
-# Android Lifecycle-aware Components Codelab
+Week7TestPart2
 
-Please follow along the codelab steps [here](https://codelabs.developers.google.com/codelabs/android-lifecycles/).
+Lifecycle Change CodeLab
 
-# Filing issues
-
-If you find errors in the codelab steps or the code, please file them [here](https://github.com/googlecodelabs/android-lifecycles/issues/new)
+![image](https://user-images.githubusercontent.com/46461171/53272081-491f8780-36be-11e9-84c4-1fdfbaf88119.png)
+![image](https://user-images.githubusercontent.com/46461171/53272094-52105900-36be-11e9-8701-10e9b6c17312.png)
+![image](https://user-images.githubusercontent.com/46461171/53272168-871cab80-36be-11e9-8242-64b0db1c3c36.png)
+![image](https://user-images.githubusercontent.com/46461171/53272201-a0255c80-36be-11e9-894f-ac7f26c89085.png)
